@@ -1,0 +1,5 @@
+[
+  "tests/test_web_capture.py::TestCapture::test_basic",
+  "tests/test_web_capture.py::TestCapture::test_empty",
+  "tests/test_web_capture.py::TestCapture::test_type_error"
+]
